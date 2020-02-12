@@ -2,4 +2,4 @@
  Flask-RESTful
  FLASK-JWT
  Flask-SQLAlchemy
- uwsgi == 2.0.15
+ uwsgi
